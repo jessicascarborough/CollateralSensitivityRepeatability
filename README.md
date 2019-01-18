@@ -1,3 +1,3 @@
 # CollateralSensitivityRepeatability
 
-Model and analyses for the preprint https://www.biorxiv.org/content/early/2018/09/20/185892
+Model and analyses for: https://www.nature.com/articles/s41467-018-08098-6
